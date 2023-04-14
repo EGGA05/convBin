@@ -34,7 +34,7 @@ function db(){
             }
         }while(cont<arr.length);
         ansf = ans.split("").reverse().join("");
-        window.alert(`el numero ${bu} en codigo binario es "${ans}"`);
+        window.alert(`el numero ${bu} en codigo binario es "${ansf}"`);
     }
 }
 function bd(){
